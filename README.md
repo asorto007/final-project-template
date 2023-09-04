@@ -13,10 +13,10 @@ If you have a private repository, please add `kaytwo` and `sauravjoshi` as colla
 
 ## What security and privacy concerns do you expect you (as developers) or your users to have with this application?
 
-Authorized logins
-Security of their information
-Unauthorized access
-Accessibility and reliability of website (Secure against DoS attacks)
+Authorized logins <br />
+Security of their information <br />
+Unauthorized access <br />
+Accessibility and reliability of website (Secure against DoS attacks) <br />
 Ability to scale up (if more people than what the servers can handle access our website)
 
 
