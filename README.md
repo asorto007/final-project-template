@@ -1,6 +1,7 @@
 # Your final project name goes here
 
 # Your team member names and uic emails go here
+Anthony Sorto: asorto3@uic.edu, Srivardhan Karnati: skarn5@uic.edu, Jessica Garcia Flores: jgarc259@uic.edu
 
 # Your GitHub repository link goes here
 If you have a private repository, please add `kaytwo` and `sauravjoshi` as collaborators.
@@ -12,6 +13,11 @@ If you have a private repository, please add `kaytwo` and `sauravjoshi` as colla
 
 ## What security and privacy concerns do you expect you (as developers) or your users to have with this application?
 
+Authorized logins
+Security of their information
+Unauthorized access
+Accessibility and reliability of website (Secure against DoS attacks)
+Ability to scale up (if more people than what the servers can handle access our website)
 
 
 ### This repository
