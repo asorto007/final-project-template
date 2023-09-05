@@ -7,7 +7,7 @@ Anthony Sorto: asorto3@uic.edu, Srivardhan Karnati: skarn5@uic.edu, Jessica Garc
 If you have a private repository, please add `kaytwo` and `sauravjoshi` as collaborators.
 
 ## What does your application do?
-
+Mental Health Journaling App aimed at CS Students: Create a journaling app focused on mental health and well-being. Users will be able to record their daily thoughts, moods, and experiences, and the app can provide insights and suggestions for improving mental health.
 
 ## What makes it different than a CRUD app? I.e., what functionality does it provide that is not just a user interface layer on top of a database of user information,and the ability to view / add to / change that information?
 
