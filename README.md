@@ -1,4 +1,4 @@
-# Your final project name goes here
+# Git-Well
 
 # Your team member names and uic emails go here
 Anthony Sorto: asorto3@uic.edu, Srivardhan Karnati: skarn5@uic.edu, Jessica Garcia Flores: jgarc259@uic.edu
