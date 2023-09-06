@@ -11,7 +11,7 @@ Mental Health Journaling App aimed at CS Students: Create a journaling app focus
 
 ## What makes it different than a CRUD app? I.e., what functionality does it provide that is not just a user interface layer on top of a database of user information,and the ability to view / add to / change that information?
 
-We plan to incorporate a chatbot, and add additional intelligent features.
+We plan to incorporate a chatbot, and add additional intelligent features. We will use widgets and buttons to make the experience user-friendly. We also wanted to experiment with NLP with the chatbot for sentiment analysis. Add achievements and badges possibly.
 
 ## What security and privacy concerns do you expect you (as developers) or your users to have with this application?
 
